@@ -1,5 +1,6 @@
 "# HW2" 
-This is a project that has several classes.
+In this project we want to simulate a faculty.
+This is a project that has several classes. They are: student, labboratory, academic department and faculty.
 Firt class is Student. It stores information about each student such as firstname , lastname, ID and grade.
 Second class is Lab. It is a laboratory that can have several students. Each laboratory has a day and capacity.
 The number of students in lab can not be more than it's capacity.
